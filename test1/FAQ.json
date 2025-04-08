@@ -1,0 +1,42 @@
+[
+  {
+    "I": 1,
+    "Q": "How can I cancel or modify my booking?",
+    "A": "You can cancel or modify your booking through your order confirmation page or by contacting our customer service team.<br>We will process your request as soon as possible."
+  },
+  {
+    "I": 2,
+    "Q": "Can I pay when I arrive at the hotel?",
+    "A": "Yes, you can choose to pay upon arrival at the hotel.<br>We accept cash, credit cards, and other common payment methods."
+  },
+  {
+    "I": 3,
+    "Q": "Can I check-in early or check-out late?",
+    "A": "Depending on the hotel's availability, we will do our best to accommodate your request.<br>Please contact us in advance, and we will try to arrange it for you."
+  },
+  {
+    "I": 4,
+    "Q": "Can I bring my pet with me?",
+    "A": "Unfortunately, most hotels do not allow pets.<br>If you need to bring your pet, please let us know in advance, and we can recommend some pet-friendly hotels for you."
+  },
+  {
+    "I": 5,
+    "Q": "Can I book multiple rooms at once?",
+    "A": "Absolutely, you can book multiple rooms at the same time through our booking system.<br>If you need any assistance, feel free to contact our customer service team."
+  },
+  {
+    "I": 6,
+    "Q": "Can I view available room types and prices online?",
+    "A": "Yes, you can check all available room types and prices on our website.<br>You can choose based on your needs and budget."
+  },
+  {
+    "I": 7,
+    "Q": "How do I use promo codes or discount vouchers?",
+    "A": "You can enter the promo code or discount voucher on the checkout page, and the system will automatically calculate the discounted amount.<br>If you have any questions, feel free to contact our customer service team."
+  },
+  {
+    "I": 8,
+    "Q": "Can I view hotel facilities and reviews online?",
+    "A": "Absolutely, our website provides detailed facility information and genuine customer reviews for each hotel.<br>You can carefully review them before booking to choose the most suitable hotel for you."
+  }
+]

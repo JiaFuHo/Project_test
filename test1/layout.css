@@ -1,6 +1,7 @@
 :root {
     --c-orange-100: rgba(255, 225, 185, 1);
     --c-blue-000: rgba(10, 30, 60, 0);
+    --c-blue-025: rgba(10, 30, 60, .25);
     --c-blue-050: rgba(10, 30, 60, .5);
     --c-blue-100: rgba(10, 30, 60, 1);
     --c-black-075: rgba(0, 0, 0, .75);
@@ -124,6 +125,54 @@ h3 {
     margin: 0 auto;
 }
 
+.sec_3_box {
+    display: flex;
+    background-color: transparent;
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#carousel_box {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.carousel-inner {
+    object-fit: cover;
+    border: .75rem solid rgba(128, 128, 128, .5);
+    border-radius: 1rem;
+}
+
+#carousel_btn {
+    background-color: rgba(128, 128, 128, .5);
+    border: none;
+    border-radius: .75rem;
+    margin-top: 1.5rem;
+    height: 4rem;
+    width: 8rem;
+}
+
+#carousel_btn:hover {
+    animation: carousel_btn_hover .75s infinite;
+}
+
+@keyframes carousel_btn_hover {
+    0% {}
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {}
+}
+
+#carousel_btn>a {
+    text-decoration: none;
+    color: white;
+}
+
 .sec_4_box {
     display: flex;
     background-color: white;
@@ -133,7 +182,32 @@ h3 {
 }
 
 #sec_5 {
-    height: 90vh
+    height: 90vh;
+}
+
+.sec_5_box {
+    display: block;
+    background-color: transparent;
+    height: 80%;
+    width: 50%;
+    margin: auto;
+}
+
+.accordion-button:focus {
+    background-color: var(--c-blue-025);
+    border-color: transparent;
+    box-shadow: none;
+}
+
+#accordion_flush_1,
+#accordion_flush_2,
+#accordion_flush_3,
+#accordion_flush_4,
+#accordion_flush_5,
+#accordion_flush_6,
+#accordion_flush_7,
+#accordion_flush_8 {
+    margin-left: 1.5rem;
 }
 
 /* footer */
@@ -145,6 +219,11 @@ footer {
     text-align: center;
     font-size: 1rem;
     color: white;
+}
+
+/* room */
+#room {
+    min-height: 90vh;
 }
 
 /* login & register */
