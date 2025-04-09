@@ -1,7 +1,32 @@
 // header
 $("header").load("./header.html");
-// footer
-$("footer").load("./footer.html");
+
+// section
+(() => {
+    let carousel_html = ``;
+    let i;
+
+    for (i = 1; i <= 30; i++) {
+        if (i === 1) {
+            carousel_html += `
+            <div class="carousel-item active">
+                <img src="./images/room_0${i}.png" class="d-block w-100" id="carousel-img" alt="">
+            </div>`;
+        } else if (i < 10) {
+            carousel_html += `
+            <div class="carousel-item">
+                <img src="./images/room_0${i}.png" class="d-block w-100" id="carousel-img" alt="">
+            </div>`;
+        } else {
+            carousel_html += `
+            <div class="carousel-item">
+                <img src="./images/room_${i}.png" class="d-block w-100" id="carousel-img" alt="">
+            </div>`;
+        }
+
+        $(".carousel-inner").html(carousel_html);
+    }
+})();
 
 $.ajax({
     url: "./FAQ.json",
@@ -22,8 +47,11 @@ $.ajax({
                     ${value.A}
                 </div>
             </div>`;
-            
+
             $("#accordion_flush").html(flush_html);
         });
     }
 })
+
+// footer
+$("footer").load("./footer.html");
