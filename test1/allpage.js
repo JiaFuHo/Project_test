@@ -57,3 +57,41 @@ $.ajax({
 $("footer").load("./footer.html");
 
 // room
+(() => {
+    let room_html = ``;
+    let i;
+
+    for (i = 1; i <= 10; i++) {
+        if (i <= 3) {
+            room_html += `
+            <div class="row">
+                <div class="col" id="img_box">
+                    <img src="./images/room_0${i * 3 - 2}.png" alt="">
+                </div>
+                <div class="col" id="img_box">
+                    <img src="./images/room_0${i * 3 - 1}.png" alt="">
+                </div>
+                <div class="col" id="img_box">
+                    <img src="./images/room_0${i * 3}.png" alt="">
+                </div>
+            </div>
+            `;
+        } else {
+            room_html += `
+            <div class="row">
+                <div class="col" id="img_box">
+                    <img src="./images/room_${i * 3 - 2}.png" alt="">
+                </div>
+                <div class="col" id="img_box">
+                    <img src="./images/room_${i * 3 - 1}.png" alt="">
+                </div>
+                <div class="col" id="img_box">
+                    <img src="./images/room_${i * 3}.png" alt="">
+                </div>
+            </div>
+            `;
+        }
+
+        $("#room_box").html(room_html);
+    }
+})()

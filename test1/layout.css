@@ -311,19 +311,29 @@ footer {
 
 /* room */
 #room {
-    min-height: 90vh;
+    height: auto;
 }
 
-.room_box {
+#room_box {
     background-color: transparent;
     width: 80%;
-    margin: auto;
+    margin: 7.5vh auto 0;
 }
 
-figure>img {
+#img_box {
+    margin: 1vh auto;
+}
+
+#img_box>img {
     height: 100%;
     width: 100%;
     object-fit: cover;
+    border-radius: .75rem;
+}
+
+#img_box>img:hover {
+    transform: scale(1.05);
+    transition: .5s;
 }
 
 /* login & register */
