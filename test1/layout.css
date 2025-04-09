@@ -152,6 +152,7 @@ h3 {
     margin-top: 1.5rem;
     height: 4rem;
     width: 8rem;
+    font-size: 1.5rem;;
 }
 
 #carousel_btn:hover {
@@ -244,12 +245,12 @@ label.textarea>textarea {
     border: none;
     border-radius: .75rem;
     color: white;
-    height: 2.5rem;
-    width: 5rem;
-    font-size: 1rem;
+    height: 3.5rem;
+    width: 7rem;
+    font-size: 1.5rem;
     position: absolute;
-    right: .5rem;
-    bottom: .5rem;
+    right: 1rem;
+    bottom: 1rem;
 }
 
 #submit_btn:hover {
