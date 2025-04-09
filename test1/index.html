@@ -14,6 +14,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq"
         crossorigin="anonymous"></script>
+    <!-- Bootstrap(icon) CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!-- CSS -->
     <link rel="stylesheet" href="./layout.css">
 </head>
@@ -71,6 +73,50 @@
     <section id="sec_4">
         <h3>Contact</h3>
         <div class="sec_4_box">
+            <div class="img_box">
+                <img src="./images/carousel_01.png" alt="">
+            </div>
+            <form
+                action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdN0rV8062vVFpTsvDk4rDAnHW5asf61Jtfdc6wVLaLIm5cGg/formResponse"
+                id="contact_form" target="_blank" method="POST">
+                <div class="form_box">
+                    <label>
+                        <i class="bi bi-person"></i>：
+                        <input type="text" id="user_name" name="entry.1448030857" placeholder="name" required>
+                    </label>
+                </div>
+                <div class="form_box">
+                    <label>
+                        <i class="bi bi-gender-ambiguous"></i>：
+                        <label id="user_gender_male">
+                            <input type="radio" id="user_gender_male" name="entry.523549785" value="Male" checked
+                                required>male
+                        </label>
+                        <label id="user_gender_female">
+                            <input type="radio" id="user_gender_female" name="entry.523549785" value="Female">female
+                        </label>
+                    </label>
+                </div>
+                <div class="form_box">
+                    <label>
+                        <i class="bi bi-phone-vibrate"></i>：
+                        <input type="tel" id="user_phone" name="entry.745575027" placeholder="phone" required>
+                    </label>
+                </div>
+                <div class="form_box">
+                    <label>
+                        <i class="bi bi-envelope"></i>：
+                        <input type="email" id="user_email" name="entry.238845254" placeholder="email" required>
+                    </label>
+                </div>
+                <div class="form_box">
+                    <label class="textarea">
+                        <i class="bi bi-chat-dots"></i>：
+                        <textarea id="user_comment" name="entry.647180847" placeholder="comment" required></textarea>
+                    </label>
+                </div>
+                <input type="submit" id="submit_btn" value="submit">
+            </form>
         </div>
     </section>
 

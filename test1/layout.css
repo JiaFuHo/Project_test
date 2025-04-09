@@ -177,12 +177,97 @@ h3 {
     display: flex;
     background-color: white;
     height: 80%;
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
+    border-radius: 1rem;
+}
+
+.img_box {
+    flex: 50%;
+    margin: 1.5%;
+}
+
+.img_box>img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: .75rem;
+}
+
+form {
+    flex: 50%;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.form_box {
+    display: flex;
+    height: 15%;
+    width: 100%;
+    text-align: left;
+    font-size: 1.25rem;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+label {
+    height: 33%;
+    width: 100%;
+}
+
+label>input {
+    width: 75%;
+}
+
+label>label#user_gender_male,
+label>label#user_gender_female {
+    width: 25%;
+}
+
+label>input#user_gender_male,
+label>input#user_gender_female {
+    width: 25%;
+}
+
+label.textarea {
+    height: 100%;
+    width: 100%;
+}
+
+label.textarea>textarea {
+    width: 75%;
+}
+
+#submit_btn {
+    background-color: rgba(128, 128, 128, .5);
+    border: none;
+    border-radius: .75rem;
+    color: white;
+    height: 2.5rem;
+    width: 5rem;
+    font-size: 1rem;
+    position: absolute;
+    right: .5rem;
+    bottom: .5rem;
+}
+
+#submit_btn:hover {
+    animation: submit_btn_hover .75s infinite;
+}
+
+@keyframes submit_btn_hover {
+    0% {}
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {}
 }
 
 #sec_5 {
-    height: 90vh;
+    min-height: 90vh;
 }
 
 .sec_5_box {
