@@ -9,17 +9,17 @@ $("header").load("./header.html");
     for (i = 1; i <= 30; i++) {
         if (i === 1) {
             carousel_html += `
-            <div class="carousel-item active" data-bs-interval="2000">
+            <div class="carousel-item active" data-bs-interval="2500">
                 <img src="./images/room_0${i}.png" class="d-block w-100" id="carousel-img" alt="">
             </div>`;
         } else if (i < 10) {
             carousel_html += `
-            <div class="carousel-item" data-bs-interval="2000">
+            <div class="carousel-item" data-bs-interval="2500">
                 <img src="./images/room_0${i}.png" class="d-block w-100" id="carousel-img" alt="">
             </div>`;
         } else {
             carousel_html += `
-            <div class="carousel-item" data-bs-interval="2000">
+            <div class="carousel-item" data-bs-interval="2500">
                 <img src="./images/room_${i}.png" class="d-block w-100" id="carousel-img" alt="">
             </div>`;
         }
