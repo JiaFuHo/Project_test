@@ -336,8 +336,8 @@ footer {
     transition: .5s;
 }
 
-/* login & register */
+/* login & regist */
 #login,
-#register {
+#regist {
     height: 90vh;
 }
