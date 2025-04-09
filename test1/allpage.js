@@ -55,3 +55,5 @@ $.ajax({
 
 // footer
 $("footer").load("./footer.html");
+
+// room
