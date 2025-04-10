@@ -34,6 +34,10 @@ $("header").load("./header.html");
 
     user_room.innerHTML += select_html;
 
+    submit_btn.onclick = () => {
+        setTimeout(() => contact_form.reset(), 1000)
+    };
+
     $.ajax({
         url: "./FAQ.json",
         dataType: "json",
