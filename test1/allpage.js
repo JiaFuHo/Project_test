@@ -14,19 +14,19 @@ $("header").load("./header.html");
             <div class="carousel-item active" data-bs-interval="2500">
                 <img src="./images/room_0${i}.png" class="d-block w-100" id="carousel-img" alt="">
             </div>`;
-            select_html += `<option value="Room 0${i}">Room 0${i}</option>`;
+            select_html += `<option value="Room 0${i}" name="entry.192299416">Room 0${i}</option>`;
         } else if (i < 10) {
             carousel_html += `
             <div class="carousel-item" data-bs-interval="2500">
                 <img src="./images/room_0${i}.png" class="d-block w-100" id="carousel-img" alt="">
             </div>`;
-            select_html += `<option value="Room 0${i}">Room 0${i}</option>`;
+            select_html += `<option value="Room 0${i}" name="entry.192299416">Room 0${i}</option>`;
         } else {
             carousel_html += `
             <div class="carousel-item" data-bs-interval="2500">
                 <img src="./images/room_${i}.png" class="d-block w-100" id="carousel-img" alt="">
             </div>`;
-            select_html += `<option value="Room ${i}">Room ${i}</option>`;
+            select_html += `<option value="Room ${i}" name="entry.192299416">Room ${i}</option>`;
         }
 
         $(".carousel-inner").html(carousel_html);
