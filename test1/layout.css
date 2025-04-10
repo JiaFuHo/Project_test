@@ -125,6 +125,10 @@ h3 {
     margin: 0 auto;
 }
 
+iframe {
+    border-radius: .75rem;
+}
+
 .sec_3_box {
     display: flex;
     background-color: transparent;
@@ -200,16 +204,17 @@ form {
     height: 100%;
     width: 100%;
     position: relative;
+    align-content: space-around;
 }
 
 .form_box {
     display: flex;
-    height: 15%;
+    height: 10%;
     width: 100%;
     text-align: left;
     font-size: 1.25rem;
+    justify-content: left;
     align-items: center;
-    margin-top: 1rem;
 }
 
 label {
@@ -231,6 +236,10 @@ label>input#user_gender_female {
     width: 25%;
 }
 
+#user_room {
+    width: 75%;
+}
+
 label.textarea {
     display: flex;
     height: 100%;
@@ -238,7 +247,7 @@ label.textarea {
     align-items: center;
 }
 
-label.textarea>textarea {
+#user_comment {
     width: 75%;
 }
 
@@ -334,6 +343,21 @@ footer {
 #img_box>img:hover {
     transform: scale(1.05);
     transition: .5s;
+}
+
+.modal-header {
+    justify-content: center;
+}
+
+.fs-5 {
+    font-size: 2rem !important;
+}
+
+#img_modal_box>img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: .75rem;
 }
 
 /* login & regist */
