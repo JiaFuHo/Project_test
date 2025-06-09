@@ -7,3 +7,4 @@ AS
 GO
 SELECT *
 FROM vw_room
+-- done

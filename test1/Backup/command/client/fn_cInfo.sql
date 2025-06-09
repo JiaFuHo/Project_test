@@ -7,3 +7,4 @@ WHERE caccount = @account)
 GO
 SELECT *
 FROM dbo.fn_cInfo('test1')
+-- done

@@ -7,3 +7,4 @@ WHERE Reserve.caccount = @account)
 GO
 SELECT *
 FROM dbo.fn_chistory('test4')
+-- done
