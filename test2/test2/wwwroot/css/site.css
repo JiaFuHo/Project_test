@@ -1,0 +1,88 @@
+:root {
+    --c-black-075: rgba(0, 0, 0, .75);
+    --c-brown1-000: rgba(225, 180, 105, 0);
+    --c-brown1-025: rgba(225, 180, 105, .25);
+    --c-brown2-050: rgba(150, 120, 90, .5);
+    --c-brown2-075: rgba(150, 120, 90, .75);
+    --c-green1-100: rgba(215, 230, 165, 1);
+    --c-green2-000: rgba(165, 190, 125, 0);
+    --c-green2-025: rgba(165, 190, 125, .25);
+    --c-green2-050: rgba(165, 190, 125, .5);
+    --c-green2-075: rgba(165, 190, 125, .75);
+    --c-green2-100: rgba(165, 190, 125, 1);
+    --c-orange-100: rgba(255, 225, 185, 1);
+    --f-family-001: 'Righteous', 'Noto Sans TC', sans-serif;
+    --h-header: 100px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+}
+
+html {
+    font-family: var(--f-family-001);
+    font-size: 16px;
+    scroll-behavior: smooth;
+    scroll-padding-top: var(--h-header);
+    overflow-x: hidden;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding-top: var(--h-header);
+    background-image: url('/images/bg.png');
+}
+
+/*header*/
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: var(--header-height);
+    z-index: 1000;
+}
+
+#box_nav {
+    background: linear-gradient(180deg, var(--c-green2-075) 0%, var(--c-green2-050) 50%, var(--c-green2-000) 100%);
+    transition: background 1s ease-in-out;
+}
+
+    #box_nav:hover {
+        background: linear-gradient(180deg, var(--c-green2-075) 0%, var(--c-green2-050) 50%, var(--c-green2-025) 100%);
+    }
+
+#logo {
+    width: 100px;
+    height: 100px;
+    background-image: url('/images/logo.png');
+    background-size: cover;
+    background-position: center;
+    margin-left: 10vw;
+}
+
+#navbar {
+    justify-content: end;
+    margin-right: 10vw;
+}
+
+/*section*/
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/*footer*/
+footer {
+    height: 20vh;
+    width: 100%;
+    background: linear-gradient(180deg, var(--c-brown1-000) 0%, var(--c-brown1-025) 20%, var(--c-brown2-050) 60%, var(--c-brown2-075) 100%);
+    text-align: center;
+}
