@@ -1,4 +1,15 @@
-﻿$("#btn_search")
+﻿chkSize = () => {
+    let x = $(document).width();
+
+    if (x <= 768) { $(".box_info").addClass("d-none"); }
+    else { $(".box_info").removeClass("d-none"); }
+}
+
+$(() => { chkSize() })
+
+$(window).on("resize", () => { chkSize() })
+
+$("#btn_search")
     .on("click", () => { $("#box_search").css("display", "inline") })
     .on("keypress", (e) => {
         if (e.key === "Enter") {

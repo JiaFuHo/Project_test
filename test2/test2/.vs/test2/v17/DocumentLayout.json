@@ -1,36 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\wwwroot\\css\\tree.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\css\\tree.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\views\\shared\\_pheader1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_pheader1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\views\\shared\\_ptree.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_ptree.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\views\\shared\\_pfooter1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_pfooter1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,91 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Pheader1.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Pheader1.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Pheader1.cshtml",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Pheader1.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Pheader1.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T08:25:00.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Pfooter1.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Pfooter1.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Pfooter1.cshtml",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Pfooter1.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Pfooter1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T08:14:05.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout1.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Layout1.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1.cshtml",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Layout1.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout1.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T08:13:59.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Ptree.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Ptree.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Ptree.cshtml",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Ptree.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Ptree.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T08:13:47.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T08:03:16.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-16T06:50:05.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "tree.css",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\css\\tree.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\tree.css",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\css\\tree.css",
-              "RelativeToolTip": "wwwroot\\css\\tree.css",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-16T06:48:07.423Z",
-              "EditorCaption": ""
             }
           ]
         }

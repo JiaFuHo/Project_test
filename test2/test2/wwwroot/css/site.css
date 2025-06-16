@@ -42,7 +42,7 @@ body {
 
 /*header*/
 header {
-    width: 100%;
+    min-width: 100vw;
     height: var(--h-header);
     z-index: 1000;
     top: 0;
@@ -68,6 +68,10 @@ header {
     margin-left: 10vw;
 }
 
+.navbar-toggler {
+    margin-right: 10vw;
+}
+
 #navbar {
     justify-content: end;
     margin-right: 10vw;
@@ -80,6 +84,7 @@ header {
 #box_search {
     border: hidden;
     border-radius: 1rem;
+    width: 9vw;
     position: absolute;
     margin-left: .5rem;
     padding-left: .5rem;
@@ -110,7 +115,7 @@ section {
 
 /*footer*/
 footer {
-    height: 20vh;
+    min-height: 20vh;
     width: 100%;
     z-index: 1000;
     background: linear-gradient(180deg, var(--c-brown1-000) 0%, var(--c-brown1-025) 20%, var(--c-brown2-050) 60%, var(--c-brown2-075) 100%);
@@ -123,6 +128,10 @@ footer {
         background: linear-gradient(180deg, var(--c-green2-075) 0%, var(--c-green2-050) 50%, var(--c-green2-025) 100%);
     }
 
+    #navbar {
+        margin-right: 15vw;
+    }
+
     .nav-item {
         margin-right: -5vw;
     }
@@ -132,6 +141,7 @@ footer {
     }
 
     #box_search {
+        width: auto;
         right: 5vw;
     }
 
