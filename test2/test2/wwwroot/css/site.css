@@ -64,9 +64,9 @@ header {
     }
 
 #logo {
-    width: 100px;
     height: 100px;
-    background-image: url('/images/logo.png');
+    width: 180px;
+    background-image: url('/images/logo3.png');
     background-size: cover;
     background-position: center;
     margin-left: 10vw;
@@ -81,35 +81,93 @@ header {
     margin-right: 10vw;
 }
 
-.link:hover {
+.link:hover, .bi:hover {
     color: var(--c-brown3-100) !important;
 }
 
-.bi:hover {
-    color: var(--c-brown3-100) !important;
+/*modal*/
+.modal-header {
+    justify-content: center;
 }
 
-#btn_search {
-    position: relative;
+.modal-body > input {
+    display: inline;
+    align-items: center;
 }
 
 #box_search {
-    border: hidden;
-    border-radius: 1rem;
-    width: 9vw;
-    position: absolute;
-    margin-left: .5rem;
-    padding-left: .5rem;
-    display: none;
+    width: 65%;
+    text-align: center;
 }
 
-    #box_search:focus {
-        outline: none;
+.btn_search {
+    width: 15%;
+    margin-left: 10px;
+    background-color: var(--c-green2-100);
+    color: white;
+}
+
+    .btn_search:active {
+        background-color: var(--c-green2-100) !important;
+        color: var(--c-orange-100) !important;
     }
 
-#box_submit {
-    display: none;
+    .btn_search:hover {
+        background-color: var(--c-green2-100);
+        color: var(--c-orange-100);
+        animation: btn_search .75s infinite;
+    }
+
+@keyframes btn_search {
+    0% {
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+    }
 }
+
+#sel_type1 {
+    width: 30%;
+    text-align: center;
+    font-size: 1rem;
+}
+
+#box_search_type {
+    width: 65%;
+    margin-left: 10px;
+}
+
+#box_search_year1 {
+    width: 44%;
+    margin-right: 10px;
+    text-align: center;
+}
+
+#box_search_year2 {
+    width: 44%;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#sel_lang, #sel_type2 {
+    width: 98%;
+    font-size: 1rem;
+}
+
+    #box_search:focus,
+    #sel_type1:focus,
+    #box_search_type:focus,
+    #box_search_year1:focus,
+    #box_search_year2:focus,
+    #sel_lang:focus,
+    #sel_type2:focus {
+        border-color: var(--bs-border-color);
+        box-shadow: none;
+    }
 
 /*section*/
 section {

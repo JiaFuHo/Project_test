@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/bootstrap5/css/bootstrap.css" />
+
+    <link rel="stylesheet" href="/Carousel/slick/slick.css" />
+    <link rel="stylesheet" href="/Carousel/slick/slick-theme.css" />
+    <title>相關書籍</title>
+    <style>
+      .slick-track {
+        margin: 0 auto;
+      }
+      .slick-slide {
+        padding: 25px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- 推薦書籍 START -->
+    <div class="container my-5 text-center">
+      <div class="h2 mt-4">相關書籍</div>
+      <div class="slider demo my-1 row align-items-center"></div>
+    </div>
+    <!-- -- -->
+
+    <!-- 推薦書籍 END -->
+    <!-- 以下 JavaScript & JQuery引用 -->
+    <script src="/bootstrap5/js/bootstrap.min.js"></script>
+    <script src="/jquery.js"></script>
+    <script src="/Carousel/slick/slick.js"></script>
+  </body>
+  <script>
+    $(document).ready(function () {
+      $(".slider").slick({
+        autoplay: true, // 自動播放
+        autoplaySpeed: 2000, // X秒切換
+        dots: true, // 顯示導航點
+        arrows: true, // 顯示左右箭頭
+        slidesToShow: 5, // 一次顯示X張
+        slidesToScroll: 1, // 每次滾動X張
+        variableWidth: false,
+        centerMode: true,
+      });
+    });
+    // https://www.jqueryscript.net/slider/Fully-Responsive-Flexible-jQuery-Carousel-Plugin-slick.html
+    for (let x = 1; x < 8; x++) {
+      $(".slider").append(
+        `<div class="row text-center align-items-center">
+          <div><a href=""><img
+              src="https://dummyimage.com/190x240/b56db0/fff.png"
+              class="img-fluid"
+              alt="圖片"
+            /></a>
+          </div>
+          <div class="mt-3 h5">小王子</div>
+        </div>`
+      );
+    }
+  </script>
+</html>

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/bootstrap5/css/bootstrap.css" />
+
+    <link rel="stylesheet" href="/Carousel/slick/slick.css" />
+    <link rel="stylesheet" href="/Carousel/slick/slick-theme.css" />
+    <title>書籍&相關書籍</title>
+    <style>
+      .slick-track {
+        margin: 0 auto;
+      }
+      .slick-slide {
+        padding: 25px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- START 容器本體 -->
+    <div class="container mt-5 w-75 bg-light p-5">
+      <!-- ------------------------------------------------------------>
+      <!-- 書本 START -->
+      <div class="row mx-5">
+        <!-- 封面  START-->
+        <div
+          class="col-lg-3 col-sm-12 border border-5 flex-grow-0 d-flex justify-content-center align-content-center my-auto"
+        >
+          <img
+            class="img-fluid"
+            src="https://dummyimage.com/240x347/b56db0/fff.png"
+            alt="我是書的封面"
+          />
+        </div>
+        <!-- 封面 END -->
+        <!-- 書籍資訊 START -->
+        <div class="col-9 d-flex flex-wrap">
+          <hr />
+          <div class="ms-md-5">
+            <div class="h1 p2 my-2 fw-bold">人間失格</div>
+            <hr />
+            <div class="h5 p2 my-2">作者 : 太宰治</div>
+            <div class="h5 p2 my-2">譯者 : 竺家榮</div>
+            <div class="h5 p2 my-2">出版社 : 天地圖書有限公司</div>
+            <div class="h5 p2 my-2">ISBN/ISSN : 9789888258635</div>
+            <div class="h5 p2 my-2">規格: 32K</div>
+            <div class="h5 p2 my-2">語言: 中文/繁體</div>
+          </div>
+          <hr />
+        </div>
+      </div>
+      <!-- 書本 END -->
+      <!-- ------------------------------------------------------------>
+    </div>
+    <!-- END容器本體 -->
+    <div class="container"><hr /></div>
+    <!-- 預約、書本簡介、作者簡介 START-->
+    <div class="container mt-1 w-75 bg-light p-5 table-responsive-md">
+      <!-- 頁籤 START-->
+      <nav>
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+          <button
+            class="nav-link active"
+            id="Collection"
+            data-bs-toggle="tab"
+            data-bs-target="#nav-Collection"
+            type="button"
+            role="tab"
+            aria-controls="Collection"
+            aria-selected="true"
+          >
+            館藏
+          </button>
+          <button
+            class="nav-link"
+            id="introduction"
+            data-bs-toggle="tab"
+            data-bs-target="#nav-introduction"
+            type="button"
+            role="tab"
+            aria-controls="nav-profile"
+            aria-selected="false"
+          >
+            簡介
+          </button>
+          <button
+            class="nav-link"
+            id="nav-author-tab"
+            data-bs-toggle="tab"
+            data-bs-target="#nav-author"
+            type="button"
+            role="tab"
+            aria-controls="nav-author"
+            aria-selected="false"
+          >
+            作者簡介
+          </button>
+        </div>
+      </nav>
+      <div class="tab-content" id="nav-tabContent">
+        <!-- 館藏預約 START-->
+        <div
+          class="tab-pane fade show active mt-1"
+          id="nav-Collection"
+          role="tabpanel"
+          aria-labelledby="Collection-tab"
+        >
+          <table class="table">
+            <thead>
+              <tr class="table-danger">
+                <th scope="col">條碼號</th>
+                <th scope="col">館藏區</th>
+                <th scope="col">書號</th>
+                <th scope="col">館藏狀態</th>
+                <th scope="col">書本類型</th>
+                <th scope="col">預約人數</th>
+                <th scope="col">預約</th>
+              </tr>
+            </thead>
+            <!-- 館藏內容 START -->
+            <tbody>
+              <!-- 測試一列 START-->
+              <tr class="align-middle">
+                <td>35153151</td>
+                <td>台中圖書館</td>
+                <td>YA 997.82 6073</td>
+                <td class="text-danger">借出</td>
+                <td>漫畫</td>
+                <td>5</td>
+                <td>
+                  <buttn type="buttn" class="btn btn-success">預約</buttn>
+                </td>
+              </tr>
+              <tr class="align-middle">
+                <td>35153151</td>
+                <td>台中圖書館太陽分館</td>
+                <td>YA 997.82 6073</td>
+                <td class="text-danger">借出</td>
+                <td>小說</td>
+                <td>1</td>
+                <td>
+                  <buttn type="buttn" class="btn btn-success">預約</buttn>
+                </td>
+              </tr>
+              <!-- 測試一列 END-->
+            </tbody>
+            <!-- 館藏內容 START -->
+          </table>
+        </div>
+        <!-- 館藏預約 END -->
+        <div
+          class="tab-pane fade mt-4 mx-3"
+          id="nav-introduction"
+          role="tabpanel"
+          aria-labelledby="introduction-tab"
+        >
+          「人間失格」，即「失去做人資格」之意。小說主角大庭葉藏天生個性敏感而脆弱，自小便體會到人性虛偽，不能真誠活著，習慣將真實的自己藏在內心深處，以面具示人，因此每一刻都過得萬分痛苦。為了逃避現實，他生活浪蕩，不斷沉淪，最終一步步邁向自我毀滅。本書情節及表達的人生觀，與作者自身經歷和思想相似，故被視為半自傳體小說；太宰治完成此作後，便與戀人投水殉情，所以也有人稱這是他的絕筆之作。《人間失格》是太宰治最傑出的作品，筆調陰暗，能令讀者自省，重新面對真實的自己，曾創下發行量一千萬冊的紀錄。附錄的短篇《女生徒》，以描寫少女細膩的心思、陰晴不定的情緒見稱；曾獲得北村透谷文學獎。
+        </div>
+        <div
+          class="tab-pane fade mt-4 mx-3"
+          id="nav-author"
+          role="tabpanel"
+          aria-labelledby="nav-author-tab"
+        >
+          太宰治(Dazai Osamu, 1909-1948)
+          是一位日本小說家，也是戰後無賴派文學的代表作家。
+          他本名津島修治，出生於青森縣的富裕家庭，從小就展現出對文學的熱愛，並立志成為作家。
+          他的作品多以自我為中心，描寫人性的黑暗面，以及對社會的反思和批判。
+          他的作品，如《人間失格》、《斜陽》等，至今仍深受讀者喜愛，並被多次改編成影視作品。
+        </div>
+      </div>
+      <!-- 頁籤 END -->
+    </div>
+    <!-- 預約、書本簡介、作者簡介 END -->
+    <!-- 推薦書籍 START -->
+    <div class="container my-5 text-center">
+      <div class="h2 mt-4">相關書籍</div>
+      <div class="slider demo my-1 row align-items-center"></div>
+    </div>
+    <!-- -- -->
+
+    <!-- 推薦書籍 END -->
+    <!-- 以下 JavaScript & JQuery引用 -->
+
+    <script src="/bootstrap5/js/bootstrap.min.js"></script>
+    <script src="/jquery.js"></script>
+    <script src="/Carousel/slick/slick.js"></script>
+  </body>
+  <script>
+    $(document).ready(function () {
+      $(".slider").slick({
+        autoplay: true, // 自動播放
+        autoplaySpeed: 2000, // X秒切換
+        dots: true, // 顯示導航點
+        arrows: true, // 顯示左右箭頭
+        slidesToShow: 5, // 一次顯示X張
+        slidesToScroll: 1, // 每次滾動X張
+        variableWidth: false,
+        centerMode: true,
+      });
+    });
+    // https://www.jqueryscript.net/slider/Fully-Responsive-Flexible-jQuery-Carousel-Plugin-slick.html
+    for (let x = 1; x < 8; x++) {
+      $(".slider").append(
+        `<div class="row text-center align-items-center">
+          <div><a href=""><img
+              src="https://dummyimage.com/190x240/b56db0/fff.png"
+              class="img-fluid"
+              alt="圖片"
+            /></a>
+          </div>
+          <div class="mt-3 h5">小王子</div>
+        </div>`
+      );
+    }
+  </script>
+</html>

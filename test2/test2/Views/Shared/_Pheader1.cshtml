@@ -23,15 +23,13 @@
                     <a class="nav-link text-dark link" asp-area="" asp-controller="Home" asp-action="Index" asp-fragment="sec5">Sec5</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"><i class="bi bi-person"></i></a>
+                    <a class="nav-link text-dark link" asp-area="" asp-controller="Home" asp-action="Index">
+                        Login <i class="bi bi-person"></i>
+                    </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-dark" id="btn_search">
-                        <label>
-                            <i class="bi bi-search"></i>
-                            <input type="text" id="box_search" />
-                            <input type="submit" id="box_submit" />
-                        </label>
+                    <a class="nav-link text-dark link" data-bs-toggle="modal" data-bs-target="#mod_search">
+                        Search <i class="bi bi-search"></i>
                     </a>
                 </li>
             </ul>
