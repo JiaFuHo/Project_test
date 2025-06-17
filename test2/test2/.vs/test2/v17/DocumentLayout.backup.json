@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\",
+  "WorkspaceRootPath": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\wwwroot\\css\\tree.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\css\\tree.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\views\\shared\\_pfooter1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_pfooter1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\views\\shared\\_pheader1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_pheader1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,67 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Pfooter1.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Pfooter1.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Pfooter1.cshtml",
-              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Pfooter1.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Pfooter1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T12:54:46.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Pheader1.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Pheader1.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Pheader1.cshtml",
-              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Pheader1.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Pheader1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T12:54:44.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T12:54:39.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-16T12:53:48.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "tree.css",
-              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\tree.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\tree.css",
-              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\tree.css*",
-              "RelativeToolTip": "wwwroot\\css\\tree.css*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAAUAAAAAAAAAA==",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-16T12:53:39.631Z",
+              "WhenOpened": "2025-06-17T02:47:52.824Z",
               "EditorCaption": ""
             }
           ]

@@ -1,17 +1,20 @@
 :root {
-    --c-black-050: rgba(0, 0, 0, .5);
     --c-black-075: rgba(0, 0, 0, .75);
     --c-brown1-000: rgba(225, 180, 105, 0);
     --c-brown1-025: rgba(225, 180, 105, .25);
     --c-brown2-050: rgba(150, 120, 90, .5);
     --c-brown2-075: rgba(150, 120, 90, .75);
-    --c-green1-100: rgba(215, 230, 165, 1);
+    --c-brown3-100: rgba(210, 150, 90);
+    --c-gray1-100: #222;
+    --c-gray2-100: #999;
+    --c-gray3-100: #ddd;
+    --c-green1-100: rgba(215, 230, 165);
     --c-green2-000: rgba(165, 190, 125, 0);
     --c-green2-025: rgba(165, 190, 125, .25);
     --c-green2-050: rgba(165, 190, 125, .5);
     --c-green2-075: rgba(165, 190, 125, .75);
-    --c-green2-100: rgba(165, 190, 125, 1);
-    --c-orange-100: rgba(255, 225, 185, 1);
+    --c-green2-100: rgba(165, 190, 125);
+    --c-orange-100: rgba(255, 225, 185);
     --f-family-001: 'Righteous', 'Noto Sans TC', sans-serif;
     --h-header: 100px;
 }
@@ -27,14 +30,15 @@ html {
     font-size: 16px;
     scroll-behavior: smooth;
     scroll-padding-top: var(--h-header);
-    position: relative;
     overflow-x: hidden;
+    position: relative;
 }
 
 body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    min-width: 100vw;
     color: var(--c-black-075);
     padding-top: var(--h-header);
     background-image: url('/images/bg.png');
@@ -42,8 +46,8 @@ body {
 
 /*header*/
 header {
-    min-width: 100vw;
     height: var(--h-header);
+    width: 100%;
     z-index: 1000;
     top: 0;
     left: 0;
@@ -75,6 +79,14 @@ header {
 #navbar {
     justify-content: end;
     margin-right: 10vw;
+}
+
+.link:hover {
+    color: var(--c-brown3-100) !important;
+}
+
+.bi:hover {
+    color: var(--c-brown3-100) !important;
 }
 
 #btn_search {
