@@ -1,0 +1,95 @@
+.row.g-4 > .col {
+    display: flex;
+}
+
+/* 設定翻轉卡片的容器 */
+.flip-card-container {
+    width: 100%;
+    /* 固定卡片高度，讓正反面尺寸一致，這是翻轉的關鍵 */
+    height: 420px; /* 你可以根據實際內容調整這個高度 */
+    perspective: 1000px; /* 3D 視角 */
+    position: relative; /* 為了讓內部絕對定位的元素參考 */
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075); /* Bootstrap shadow-sm 樣式 */
+    border-radius: var(--bs-card-border-radius, 0.375rem); /* Bootstrap card-border-radius 樣式 */
+    overflow: hidden; /* 防止內容溢出圓角 */
+}
+
+/* 翻轉的內部元素，真正執行 3D 轉換 */
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s; /* 翻轉動畫時間 */
+    transform-style: preserve-3d; /* 讓子元素在 3D 空間中呈現 */
+}
+
+/* 滑鼠懸停時，翻轉內部元素 */
+.flip-card-container:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+/* 卡片的正面和背面共用樣式 */
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden; /* 隱藏元素背面，關鍵屬性 */
+    background-color: white; /* 確保背景色，以覆蓋 */
+    display: flex; /* 使用 Flexbox 進行內部佈局 */
+    flex-direction: column; /* 垂直排列內容 */
+    justify-content: flex-start; /* 讓內容從頂部開始 */
+    align-items: center; /* 水平居中 */
+    padding: 1rem; /* 內部填充 */
+    box-sizing: border-box; /* 確保 padding 不會增加總寬高 */
+}
+
+/* 設置正面卡片 */
+.flip-card-front {
+    z-index: 2; /* 確保正面在背面之上 */
+}
+
+/* 設置背面卡片，初始翻轉 180 度 */
+.flip-card-back {
+    transform: rotateY(180deg);
+    justify-content: center; /* 背面內容垂直置中 */
+}
+
+/* 調整圖片樣式，讓它在卡片內適當顯示 */
+.flip-card-front .card-img-top {
+    max-width: 100%;
+    height: auto; /* 保持圖片比例 */
+    max-height: 65%; /* 限制圖片高度，避免過高擠壓文字 */
+    object-fit: contain; /* 確保圖片完整顯示，不裁切 */
+    padding: 0.5rem; /* 圖片周圍的留白 */
+    margin-bottom: 0.5rem; /* 圖片下方留白 */
+}
+
+/* 調整正面卡片的文字部分 */
+.flip-card-front .card-title {
+    font-size: 1.25rem; /* Bootstrap 預設 h5 大小 */
+    margin-top: auto; /* 讓標題和作者在底部對齊 */
+    margin-bottom: 0.25rem;
+}
+
+.flip-card-front .card-text {
+    font-size: 0.9rem; /* Bootstrap 預設 text-muted 大小 */
+    color: var(--bs-secondary-color); /* Bootstrap 預設 text-muted 顏色 */
+    margin-bottom: 0; /* 移除段落底部多餘邊距 */
+}
+
+/* 調整背面卡片內容的文字樣式 */
+.flip-card-back .card-title {
+    margin-bottom: 0.75rem;
+}
+
+.flip-card-back p {
+    margin-bottom: 0.5rem;
+    font-size: 0.95em;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.flip-card-back .btn {
+    margin-top: 1rem;
+}

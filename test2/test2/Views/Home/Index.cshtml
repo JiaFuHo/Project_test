@@ -1,77 +1,9 @@
-﻿@* section *@
+﻿@await Html.PartialAsync("_Pmodal")
+
 <section id="sec1">sec1</section>
 <section id="sec2">sec2</section>
 <section id="sec3">sec3</section>
 <section id="sec4">sec4</section>
 <section id="sec5">
-    @await Html.PartialAsync("_Ptree")
-    sec5
+    @await Html.PartialAsync("_Ptree")sec5
 </section>
-
-@* modal *@
-<div class="modal fade" id="mod_search" tabindex="-1" aria-labelledby="mod_search_header" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content" id="box_modal1">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="mod_search_header">搜尋</h1>
-            </div>
-            <div class="modal-body d-flex" style="justify-content: center">
-                <input type="text" class="form-control" id="box_search" placeholder="書名、作者、分類、ISBN">
-                <button type="button" class="btn mt-0 btn_search" id="btn_search1">搜尋</button>
-                <button type="button" class="btn mt-0 btn_search" id="btn_search2">更多</button>
-            </div>
-            <div class="modal-footer d-flex" style="justify-content: start">
-                <p class="mx-2">熱門:</p>
-            </div>
-        </div>
-
-        <div class="modal-content d-none" id="box_modal2">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="mod_search_header">進階搜尋</h1>
-            </div>
-            <div class="modal-body">
-                <div class="d-flex" style="justify-content: center">
-                    <select class="form-select form-select-lg" id="sel_type1">
-                        <option value="title">書名</option>
-                        <option value="author">作者</option>
-                        <option value="type">分類</option>
-                        <option value="isbn">ISBN</option>
-                    </select>
-                    <input type="text" class="form-control" id="box_search_type">
-                </div>
-                <div class="d-flex mt-2" style="justify-content: center; font-size: 24px">
-                    <input type="text" class="form-control" id="box_search_year1" placeholder="年份">
-                    至
-                    <input type="text" class="form-control" id="box_search_year2" placeholder="年份">
-                </div>
-                <div class="d-flex mt-2" style="justify-content: center">
-                    <select class="form-select form-select-lg" id="sel_lang">
-                        <option value="all">All language</option>
-                        <option value="chinese">中文</option>
-                        <option value="english">English</option>
-                        <option value="japanese">日本語</option>
-                        <option value="korean">한국어</option>
-                        <option value="french">le français</option>
-                    </select>
-                </div>
-                <div class="d-flex mt-2" style="justify-content: center">
-                    <select class="form-select form-select-lg" id="sel_type2">
-                        <option value="all">All type</option>
-                        <option value="1">中文圖書</option>
-                        <option value="2">兒童圖書</option>
-                        <option value="3">青少年圖書</option>
-                        <option value="4">漫畫</option>
-                        <option value="5">小說</option>
-                    </select>
-                </div>
-                <div class="d-flex mt-2" style="justify-content: center">
-                    <button type="button" class="btn mt-0 btn_search" id="btn_search3">搜尋</button>
-                    <button type="button" class="btn mt-0 btn_search" id="btn_search4">更少</button>
-                </div>
-            </div>
-            <div class="modal-footer d-flex" style="justify-content: start">
-                <p class="mx-2">熱門:</p>
-            </div>
-        </div>
-    </div>
-</div>

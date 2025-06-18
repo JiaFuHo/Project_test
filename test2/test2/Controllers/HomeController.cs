@@ -1,11 +1,45 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Reflection;
+using System.Xml.Linq;
 
 namespace test2.Controllers
 {
     public class HomeController : Controller
     {
+        #region field
+        public const string sk1 = "query1";
+        public const string sk2 = "type1";
+        public const string sk3 = "query2";
+        public const string sk4 = "year1";
+        public const string sk5 = "year2";
+        public const string sk6 = "lang";
+        public const string sk7 = "type2";
+        #endregion
+
         #region view
         public IActionResult Index() { return View(); }
+        public IActionResult Query(string query1, string type1, string query2, string year1, string year2, string lang, string type2)
+        {
+            if (string.IsNullOrEmpty(query1)) { query1 = String.Empty; }
+            if (string.IsNullOrEmpty(type1)) { type1 = String.Empty; }
+            if (string.IsNullOrEmpty(query2)) { query2 = String.Empty; }
+            if (string.IsNullOrEmpty(year1)) { year1 = String.Empty; }
+            if (string.IsNullOrEmpty(year2)) { year2 = String.Empty; }
+            if (string.IsNullOrEmpty(lang)) { lang = String.Empty; }
+            if (string.IsNullOrEmpty(type2)) { type2 = String.Empty; }
+
+            HttpContext.Session.SetString(sk1, query1);
+            HttpContext.Session.SetString(sk2, type1);
+            HttpContext.Session.SetString(sk3, query2);
+            HttpContext.Session.SetString(sk4, year1);
+            HttpContext.Session.SetString(sk5, year2);
+            HttpContext.Session.SetString(sk6, lang);
+            HttpContext.Session.SetString(sk7, type2);
+
+            return View();
+        }
         #endregion
     }
 }
