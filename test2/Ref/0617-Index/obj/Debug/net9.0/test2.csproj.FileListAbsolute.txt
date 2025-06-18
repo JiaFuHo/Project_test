@@ -1,0 +1,294 @@
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\appsettings.Development.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\appsettings.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\test2.staticwebassets.runtime.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\test2.staticwebassets.endpoints.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\test2.exe
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\test2.deps.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\test2.runtimeconfig.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\test2.dll
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\bin\Debug\net9.0\test2.pdb
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.AssemblyInfoInputs.cache
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.AssemblyInfo.cs
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.csproj.CoreCompileInputs.cache
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.MvcApplicationPartsAssemblyInfo.cache
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.RazorAssemblyInfo.cache
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.RazorAssemblyInfo.cs
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\scopedcss\bundle\test2.styles.css
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\scopedcss\projectbundle\test2.bundle.scp.css
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\ngykbnznyh-bqjiyaj88i.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\ndg239q7bw-c2jlpeoesf.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\mq6hz3qvlj-erw9l3u2r3.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\a8w955p3bp-aexeepp0ev.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\v2y4mh5nj9-d7shbmvgxk.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\ezjlso4k50-ausgxo2sd3.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\6pcdr2g3jq-k8d9w2qqmf.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\em5nrqd4eb-cosvhxvwiu.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\7549nntk0a-ub07r2b239.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\ijer4amxxs-fvhpjtyr6v.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\o10z5s2d7t-b7pk76d08c.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\8hi6kij9xj-fsbi9cje9m.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\2a9hbu2pgt-rzd6atqjts.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\2ssk2end93-ee0r1s7dh0.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\e4gyxuhsnx-dxx9fxp4il.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\eiaw5jnjsb-jd9uben2k1.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\8jh5q4yjg1-khv3u5hwcm.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\yrw7mfe8sm-r4e9w2rdcm.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\cn5nlw8rsk-lcd1t2u6c8.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\8z59tap6aw-c2oey78nd0.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\v8hpxi97h8-tdbxkamptv.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\dz1mxxx15z-j5mq2jizvt.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\btmrk4gesb-06098lyss8.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\v139gis2hu-nvvlpmu67g.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\qqjdig400r-s35ty4nyc5.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\2iswx0pc9l-pj5nd1wqec.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\5e36wlnb3g-46ein0sx1k.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\2hsk5ynzpe-v0zj4ognzu.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\ndtz4zciz4-37tfw0ft22.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\6q44z8zuo7-hrwsygsryq.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\eaufm30n6a-pk9g2wxc8p.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\qmxlv9dhp0-ft3s53vfgj.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\atomv1yh2t-6cfz1n2cew.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\y6gz29atyz-6pdc2jztkx.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\drqxzb8y5s-493y06b0oq.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\dbwzfdwp15-iovd86k7lj.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\hgns7u3cbq-vr1egmr9el.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\cm9ygkuvj0-kbrnm935zg.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\k4z0fuj7bu-jj8uyg4cgr.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\m2wvz3t4vb-y7v9cxd14o.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\dthyjg3but-notf2xhcfb.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\t3rjas43nt-h1s4sie4z3.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\wbpo4w5zia-63fj8s7r0e.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\at1w9nrfld-0j3bgjxly4.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\5en1m9d1md-47otxtyo56.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\vfuakh1xv3-4v8eqarkd7.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\faws1wy3kd-356vix0kms.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\pxfjju5x0f-83jwlth58m.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\cjvl0qbzcg-mrlpezrjn3.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\knxcinacyi-lzl9nlhx6b.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\u463k3xrjz-ag7o75518u.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\bri51pegf7-x0q3zqp4vz.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\qmr126h5cb-0i3buxo5is.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\lu40b0iffc-o1o13a6vjx.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\jn5c3mst6z-ttgo8qnofa.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\w58js1udug-2z0ns9nrw6.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\oo55vks720-muycvpuwrr.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\yt8vzzgc78-87fc7y1x7t.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\xvps5axcdp-mlv21k5csn.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\staticwebassets.build.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\staticwebassets.development.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.dll
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\refint\test2.dll
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.pdb
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.genruntimeconfig.cache
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\ref\test2.dll
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\q23ahjfb6y-a1k16s4oiw.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\appsettings.Development.json
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\appsettings.json
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\test2.staticwebassets.endpoints.json
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\test2.staticwebassets.runtime.json
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\test2.exe
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\test2.deps.json
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\test2.runtimeconfig.json
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\test2.dll
+C:\JiaFuHo - GF66\Programs\Others\test2\bin\Debug\net9.0\test2.pdb
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.AssemblyInfoInputs.cache
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.AssemblyInfo.cs
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.csproj.CoreCompileInputs.cache
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.MvcApplicationPartsAssemblyInfo.cache
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.RazorAssemblyInfo.cache
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.RazorAssemblyInfo.cs
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\scopedcss\bundle\test2.styles.css
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\scopedcss\projectbundle\test2.bundle.scp.css
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\q23ahjfb6y-a1k16s4oiw.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\ngykbnznyh-bqjiyaj88i.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\ndg239q7bw-c2jlpeoesf.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\mq6hz3qvlj-erw9l3u2r3.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\a8w955p3bp-aexeepp0ev.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\v2y4mh5nj9-d7shbmvgxk.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\ezjlso4k50-ausgxo2sd3.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\6pcdr2g3jq-k8d9w2qqmf.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\em5nrqd4eb-cosvhxvwiu.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\7549nntk0a-ub07r2b239.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\ijer4amxxs-fvhpjtyr6v.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\o10z5s2d7t-b7pk76d08c.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\8hi6kij9xj-fsbi9cje9m.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\2a9hbu2pgt-rzd6atqjts.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\2ssk2end93-ee0r1s7dh0.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\e4gyxuhsnx-dxx9fxp4il.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\eiaw5jnjsb-jd9uben2k1.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\8jh5q4yjg1-khv3u5hwcm.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\yrw7mfe8sm-r4e9w2rdcm.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\cn5nlw8rsk-lcd1t2u6c8.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\8z59tap6aw-c2oey78nd0.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\v8hpxi97h8-tdbxkamptv.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\dz1mxxx15z-j5mq2jizvt.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\btmrk4gesb-06098lyss8.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\v139gis2hu-nvvlpmu67g.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\qqjdig400r-s35ty4nyc5.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\2iswx0pc9l-pj5nd1wqec.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\5e36wlnb3g-46ein0sx1k.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\2hsk5ynzpe-v0zj4ognzu.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\ndtz4zciz4-37tfw0ft22.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\6q44z8zuo7-hrwsygsryq.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\eaufm30n6a-pk9g2wxc8p.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\qmxlv9dhp0-ft3s53vfgj.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\atomv1yh2t-6cfz1n2cew.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\y6gz29atyz-6pdc2jztkx.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\drqxzb8y5s-493y06b0oq.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\dbwzfdwp15-iovd86k7lj.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\hgns7u3cbq-vr1egmr9el.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\cm9ygkuvj0-kbrnm935zg.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\k4z0fuj7bu-jj8uyg4cgr.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\m2wvz3t4vb-y7v9cxd14o.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\dthyjg3but-notf2xhcfb.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\t3rjas43nt-h1s4sie4z3.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\wbpo4w5zia-63fj8s7r0e.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\at1w9nrfld-0j3bgjxly4.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\5en1m9d1md-47otxtyo56.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\vfuakh1xv3-4v8eqarkd7.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\faws1wy3kd-356vix0kms.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\pxfjju5x0f-83jwlth58m.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\cjvl0qbzcg-mrlpezrjn3.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\knxcinacyi-lzl9nlhx6b.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\u463k3xrjz-ag7o75518u.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\bri51pegf7-x0q3zqp4vz.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\qmr126h5cb-0i3buxo5is.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\lu40b0iffc-o1o13a6vjx.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\jn5c3mst6z-ttgo8qnofa.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\w58js1udug-2z0ns9nrw6.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\oo55vks720-muycvpuwrr.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\yt8vzzgc78-87fc7y1x7t.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\xvps5axcdp-mlv21k5csn.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\staticwebassets.build.json
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\staticwebassets.development.json
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.dll
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\refint\test2.dll
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.pdb
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.genruntimeconfig.cache
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\ref\test2.dll
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout1.cshtml.rz.scp.css
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\4t3unn2v1e-78j78p8iwq.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\hw2146yr46-78j78p8iwq.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout1.cshtml.rz.scp.css
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\usrz7p4rt9-ggv643jcz5.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\tsqm96ny4i-gglbyqddh0.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\686t6dfjcx-7g6r6o4jqq.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\4t3unn2v1e-78j78p8iwq.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\hw2146yr46-78j78p8iwq.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\odwy7z9a8b-sejyqax4v4.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\odwy7z9a8b-sejyqax4v4.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\usrz7p4rt9-ggv643jcz5.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\tsqm96ny4i-gglbyqddh0.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\686t6dfjcx-7g6r6o4jqq.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\75f1m8ok1y-70adfcv3oj.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\o6riwkc2td-xellf3f0zq.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\75f1m8ok1y-fh0vdark5o.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\o6riwkc2td-4jwgckpw8u.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\appsettings.Development.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\appsettings.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\test2.staticwebassets.runtime.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\test2.staticwebassets.endpoints.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\test2.exe
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\test2.deps.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\test2.runtimeconfig.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\test2.dll
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\bin\Debug\net9.0\test2.pdb
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.AssemblyInfoInputs.cache
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.AssemblyInfo.cs
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.csproj.CoreCompileInputs.cache
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.MvcApplicationPartsAssemblyInfo.cache
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.RazorAssemblyInfo.cache
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.RazorAssemblyInfo.cs
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.sourcelink.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout1.cshtml.rz.scp.css
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\scopedcss\bundle\test2.styles.css
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\scopedcss\projectbundle\test2.bundle.scp.css
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\odwy7z9a8b-sejyqax4v4.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\q23ahjfb6y-a1k16s4oiw.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\usrz7p4rt9-ggv643jcz5.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\tsqm96ny4i-gglbyqddh0.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\686t6dfjcx-7g6r6o4jqq.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\75f1m8ok1y-fh0vdark5o.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\ngykbnznyh-t1cqhe9u97.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\ndg239q7bw-c2jlpeoesf.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\mq6hz3qvlj-sejl45xvog.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\a8w955p3bp-aexeepp0ev.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\v2y4mh5nj9-xvp3kq03qx.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\ezjlso4k50-ausgxo2sd3.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\6pcdr2g3jq-22vffe00uq.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\em5nrqd4eb-cosvhxvwiu.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\7549nntk0a-qesaa3a1fm.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\ijer4amxxs-fvhpjtyr6v.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\o10z5s2d7t-tmc1g35s3z.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\8hi6kij9xj-fsbi9cje9m.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\2a9hbu2pgt-rxsg74s51o.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\2ssk2end93-ee0r1s7dh0.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\e4gyxuhsnx-q9ht133ko3.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\eiaw5jnjsb-jd9uben2k1.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\8jh5q4yjg1-gye83jo8yx.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\yrw7mfe8sm-r4e9w2rdcm.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\cn5nlw8rsk-wl58j5mj3v.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\8z59tap6aw-c2oey78nd0.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\v8hpxi97h8-d4r6k3f320.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\dz1mxxx15z-j5mq2jizvt.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\btmrk4gesb-keugtjm085.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\v139gis2hu-nvvlpmu67g.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\qqjdig400r-zub09dkrxp.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\2iswx0pc9l-pj5nd1wqec.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\5e36wlnb3g-43atpzeawx.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\2hsk5ynzpe-v0zj4ognzu.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\ndtz4zciz4-ynyaa8k90p.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\6q44z8zuo7-hrwsygsryq.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\eaufm30n6a-c63t5i9ira.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\qmxlv9dhp0-ft3s53vfgj.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\atomv1yh2t-4094rpi4f9.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\y6gz29atyz-6pdc2jztkx.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\drqxzb8y5s-hd3gran6i8.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\dbwzfdwp15-iovd86k7lj.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\hgns7u3cbq-ltid2c489k.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\cm9ygkuvj0-kbrnm935zg.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\k4z0fuj7bu-8vyfqsqgz1.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\m2wvz3t4vb-y7v9cxd14o.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\dthyjg3but-u9q1upor1n.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\t3rjas43nt-h1s4sie4z3.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\wbpo4w5zia-4d85u1mtcx.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\at1w9nrfld-0j3bgjxly4.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\5en1m9d1md-03hjc8e09r.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\vfuakh1xv3-48y08845bh.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\faws1wy3kd-356vix0kms.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\pxfjju5x0f-83jwlth58m.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\cjvl0qbzcg-mrlpezrjn3.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\knxcinacyi-worgj0nhwm.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\u463k3xrjz-gk0pw8i4co.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\bri51pegf7-x0q3zqp4vz.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\qmr126h5cb-d6nrnj6jjx.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\lu40b0iffc-m9qm4tazc0.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\jn5c3mst6z-ttgo8qnofa.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\w58js1udug-jjsuc0puko.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\oo55vks720-9vr69e8ynj.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\yt8vzzgc78-87fc7y1x7t.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\xvps5axcdp-mlv21k5csn.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\4t3unn2v1e-78j78p8iwq.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\hw2146yr46-78j78p8iwq.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\staticwebassets.build.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\staticwebassets.development.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.dll
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\refint\test2.dll
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.pdb
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\test2.genruntimeconfig.cache
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\ref\test2.dll
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\7tcfpjbi6v-fvuugk2tpg.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\4ifjq5w6sj-xy0qshslql.gz
+C:\職訓局\大專\洪家福_test\Project_test\test2\test2\obj\Debug\net9.0\compressed\o6riwkc2td-13ejmeqefa.gz

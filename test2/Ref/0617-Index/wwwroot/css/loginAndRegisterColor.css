@@ -1,0 +1,8 @@
+:root {
+    --bs-primary: #5cb85c; /* 國圖綠色主題色 */
+    --bs-primary-rgb: 92, 184, 92;
+    --bs-light-green: #e9f0e6; /* 淺綠色背景 */
+    --bs-dark-green: #3d793d; /* 深綠色，用於強調文字或hover效果 */
+    --bs-facebook: #3b5998; /* Facebook 藍色 */
+    --bs-google: #dd4b39; /* Google 紅色 */
+}
