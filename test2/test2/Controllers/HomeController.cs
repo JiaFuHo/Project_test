@@ -16,11 +16,12 @@ namespace test2.Controllers
         public const string sk5 = "year2";
         public const string sk6 = "lang";
         public const string sk7 = "type2";
+        public const string sk8 = "status";
         #endregion
 
         #region view
         public IActionResult Index() { return View(); }
-        public IActionResult Query(string query1, string type1, string query2, string year1, string year2, string lang, string type2)
+        public IActionResult Query(string query1, string type1, string query2, string year1, string year2, string lang, string type2, string status)
         {
             if (string.IsNullOrEmpty(query1)) { query1 = String.Empty; }
             if (string.IsNullOrEmpty(type1)) { type1 = String.Empty; }
@@ -29,6 +30,7 @@ namespace test2.Controllers
             if (string.IsNullOrEmpty(year2)) { year2 = String.Empty; }
             if (string.IsNullOrEmpty(lang)) { lang = String.Empty; }
             if (string.IsNullOrEmpty(type2)) { type2 = String.Empty; }
+            if (string.IsNullOrEmpty(status)) { status = "1"; }
 
             HttpContext.Session.SetString(sk1, query1);
             HttpContext.Session.SetString(sk2, type1);
@@ -37,6 +39,7 @@ namespace test2.Controllers
             HttpContext.Session.SetString(sk5, year2);
             HttpContext.Session.SetString(sk6, lang);
             HttpContext.Session.SetString(sk7, type2);
+            HttpContext.Session.SetString(sk8, status);
 
             return View();
         }

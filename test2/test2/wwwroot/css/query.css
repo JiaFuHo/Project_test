@@ -1,8 +1,12 @@
 ﻿/*sec1*/
+#sec1 {
+    min-height: 100vh;
+}
+
 #box_query1 {
     min-width: 80%;
     height: 30%;
-    padding-bottom:15%;
+    padding-bottom: 15%;
     margin-bottom: 5%;
 }
 
@@ -64,9 +68,9 @@
     }
 
 .Qbtn_hot {
-    min-width: 15%;
-    max-width: 40%;
-    margin-left: 10px;
+    min-width: 10%;
+    max-width: 20%;
+    margin-left: 20px;
     background-color: var(--c-blue---050);
     color: white;
 }

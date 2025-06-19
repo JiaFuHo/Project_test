@@ -13,7 +13,7 @@ wwwroot\images\title1.png
 wwwroot\images\title2.png
 wwwroot\images\tree.png
 wwwroot\images\youtube.svg
-wwwroot\js\modal.js
+wwwroot\js\query.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -75,7 +75,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\js\query.js
+wwwroot\js\modal.js
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\css\index.css
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\css\modal.css
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\css\query.css
@@ -84,7 +84,7 @@ C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\favicon.ico
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\images\facebook.svg
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\images\instagram.svg
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\images\youtube.svg
-C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\js\modal.js
+C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\js\query.js
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\js\site.js
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -145,4 +145,4 @@ C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\lib\jquery\LICENSE.txt
-C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\js\query.js
+C:\JiaFuHo - GF66\Programs\Others\test2\wwwroot\js\modal.js
