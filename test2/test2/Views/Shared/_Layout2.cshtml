@@ -14,9 +14,9 @@
     <link rel="stylesheet" href="~/test2.styles.css" asp-append-version="true" />
 </head>
 <body>
-    <header>@await Html.PartialAsync("_Pheader2") </header>
+    <header>@await Html.PartialAsync("_Pheader2")</header>
 
-    <div class="container"><main role="main" class="pb-3">  @RenderBody()</main></div>
+    <div class="container"><main role="main" class="pb-3">@RenderBody()</main></div>
 
     <footer>@await Html.PartialAsync("_Pfooter1")</footer>
 
