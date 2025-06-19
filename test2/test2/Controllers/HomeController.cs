@@ -30,7 +30,7 @@ namespace test2.Controllers
             if (string.IsNullOrEmpty(year2)) { year2 = String.Empty; }
             if (string.IsNullOrEmpty(lang)) { lang = String.Empty; }
             if (string.IsNullOrEmpty(type2)) { type2 = String.Empty; }
-            if (string.IsNullOrEmpty(status)) { status = "1"; }
+            if (string.IsNullOrEmpty(status)) { status = String.Empty; }
 
             HttpContext.Session.SetString(sk1, query1);
             HttpContext.Session.SetString(sk2, type1);

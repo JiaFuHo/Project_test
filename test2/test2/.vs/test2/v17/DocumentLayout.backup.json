@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\",
+  "WorkspaceRootPath": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\wwwroot\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\wwwroot\\js\\query.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\js\\query.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\wwwroot\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\views\\home\\query.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\home\\query.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\views\\shared\\_pmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\views\\shared\\_pmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_pmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\wwwroot\\js\\query.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\js\\query.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\views\\home\\query.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\home\\query.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +42,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:25:02.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:24:58.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-19T17:24:51.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-19T17:24:48.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modal.js",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\js\\modal.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\modal.js",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\js\\modal.js",
+              "RelativeToolTip": "wwwroot\\js\\modal.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-19T17:20:16.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Pmodal.cshtml",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Pmodal.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Pmodal.cshtml",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Pmodal.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Pmodal.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:14:59.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Query.cshtml",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Home\\Query.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Query.cshtml",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Home\\Query.cshtml",
+              "RelativeToolTip": "Views\\Home\\Query.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:13:09.644Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -50,54 +157,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Query.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Home\\Query.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Query.cshtml",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Home\\Query.cshtml",
-              "RelativeToolTip": "Views\\Home\\Query.cshtml",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T08:36:51.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Pmodal.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Pmodal.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Pmodal.cshtml",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Shared\\_Pmodal.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Pmodal.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAADwv1IAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T08:36:42.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "query.js",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\js\\query.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\query.js",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\js\\query.js",
-              "RelativeToolTip": "wwwroot\\js\\query.js",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-19T08:36:38.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "modal.js",
-              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\js\\modal.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\modal.js",
-              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\js\\modal.js",
-              "RelativeToolTip": "wwwroot\\js\\modal.js",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Title": "query.js",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\js\\query.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\query.js",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\js\\query.js",
+              "RelativeToolTip": "wwwroot\\js\\query.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-19T08:36:36.164Z",
+              "WhenOpened": "2025-06-19T17:09:15.346Z",
               "EditorCaption": ""
             }
           ]

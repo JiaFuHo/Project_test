@@ -1,7 +1,7 @@
 ﻿//header
 $(".link").on("click", () => { if ($(".navbar-toggler").is(":visible")) { $(".navbar-toggler").trigger("click") } })
 
-//footer
+//RWD
 chkSize = () => {
     let x = $(document).width();
 

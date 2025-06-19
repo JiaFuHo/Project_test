@@ -1,4 +1,5 @@
 ﻿$("#btn_search1").on("click", () => {
+    $("#box_status").val("1")
     $("#btn_submit1").trigger("click")
     $("#btn_guide").trigger("click")
 })
@@ -7,8 +8,8 @@ $("#btn_search3").on("click", () => {
     let x = parseInt($("#box_search_year1").val(), 10);
     let y = parseInt($("#box_search_year2").val(), 10);
 
-    $("#box_search_year1").val(($("#box_search_year1").val() !== "" && !isNaN(x)) ? (x <= 2025 ? x : "") : "")
-    $("#box_search_year2").val(($("#box_search_year2").val() !== "" && !isNaN(y)) ? (y <= 2025 ? y : "") : "")
+    $("#box_search_year1").val(($("#box_search_year1").val() !== "" && !isNaN(x)) ? (x >= 1950 ? (x <= 2025 ? (x <= y ? x : 1950) : 1950) : 1950) : 1950)
+    $("#box_search_year2").val(($("#box_search_year2").val() !== "" && !isNaN(y)) ? (y >= 1950 ? (y <= 2025 ? (y >= x ? y : 2025) : 2025) : 2025) : 2025)
 
     $("#box_status").val("2")
     $("#btn_submit2").trigger("click")
