@@ -6,9 +6,13 @@
     --c-brown2-050: rgba(150, 120, 90, .5);
     --c-brown2-075: rgba(150, 120, 90, .75);
     --c-brown3-100: rgba(210, 150, 90);
-    --c-gray1-100: #222;
-    --c-gray2-100: #999;
-    --c-gray3-100: #ddd;
+    --c-gray1-100: rgba(34, 34, 34);
+    --c-gray2-050: rgba(153, 153, 153, .5);
+    --c-gray2-100: rgba(153, 153, 153);
+    --c-gray3-100: rgba(221, 221, 221);
+    --c-green1-000: rgba(215, 230, 165, 0);
+    --c-green1-025: rgba(215, 230, 165, .25);
+    --c-green1-050: rgba(215, 230, 165, .5);
     --c-green1-100: rgba(215, 230, 165);
     --c-green2-000: rgba(165, 190, 125, 0);
     --c-green2-025: rgba(165, 190, 125, .25);
@@ -17,7 +21,7 @@
     --c-green2-100: rgba(165, 190, 125);
     --c-orange-100: rgba(255, 225, 185);
     --f-family-001: 'Righteous', 'Noto Sans TC', sans-serif;
-    --h-header: 100px;
+    --h-header: 10vh;
 }
 
 * {
@@ -92,12 +96,10 @@ section {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 90vh;
     width: 100%;
-}
-
-#sec5 img {
-    position: absolute;
+    margin-top: var(--h-header);
+    border: 1px solid var(--c-gray2-100);
 }
 
 /*footer*/

@@ -2,5 +2,6 @@
     var x = (ViewContext.RouteData.Values["controller"])!.ToString();
     var y = (ViewContext.RouteData.Values["action"])!.ToString();
 
-    if (x == "Home") { Layout = "_Layout1"; }
+    if (x == "Home" && y == "Index") { Layout = "_Layout1"; }
+    else if (x == "Home" && y == "Query") { Layout = "_Layout2"; }
 }

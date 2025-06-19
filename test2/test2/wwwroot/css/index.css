@@ -1,4 +1,9 @@
-﻿#tree1 {
+﻿/*sec5*/
+#sec5 img {
+    position: absolute;
+}
+
+#tree1 {
     width: 15vw;
     height: auto;
     z-index: 0;

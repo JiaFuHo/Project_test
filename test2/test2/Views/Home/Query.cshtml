@@ -1,11 +1,45 @@
 ﻿@await Html.PartialAsync("_Pmodal")
 
-<section>
-    @Context.Session.GetString("query1")
-    @Context.Session.GetString("type1")
-    @Context.Session.GetString("query2")
-    @Context.Session.GetString("year1")
-    @Context.Session.GetString("year2")
-    @Context.Session.GetString("lang")
-    @Context.Session.GetString("type2")
+<section id="sec1" class="m-0">
+    <form>
+        <div id="box_query1">
+            <div class="d-flex mt-5" style="justify-content: center"><h5>搜尋</h5></div>
+            <div class="d-flex" style="justify-content: center">
+                <input type="text" class="form-control" id="Qbox_search" name="Qquery1" value="@Context.Session.GetString("query1")" placeholder="書名、作者、分類、ISBN">
+                <button type="button" class="btn mt-0 Qbtn_search" id="Qbtn_search1">搜尋</button>
+                <button type="button" class="btn mt-0 Qbtn_search" id="Qbtn_search2">更多</button>
+                <button type="submit" class="d-none" id="Qbtn_submit1"></button>
+            </div>
+            <div class="d-flex mt-3" style="justify-content: center"><h5>熱門</h5></div>
+            <div class="modal-footer d-flex" style="justify-content: start; width:max-content">
+                <button type="button" class="btn mt-0 Qbtn_hot" id="Qbtn_hot1">哈利波特</button>
+                <button type="button" class="btn mt-0 Qbtn_hot" id="Qbtn_hot2">金庸</button>
+                <button type="button" class="btn mt-0 Qbtn_hot" id="Qbtn_hot3">波西傑克森</button>
+                <button type="button" class="btn mt-0 Qbtn_hot" id="Qbtn_hot4">飢餓遊戲</button>
+            </div>
+        </div>
+    </form>
+
+    <div id="box_result"></div>
+</section>
+<section id="sec2">
+    <nav>
+        <div class="nav nav-tabs" role="tablist" id="box_tab">
+            <button class="nav-link active default" id="btn_tab1" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab" aria-controls="tab1" aria-selected="true">書本簡介</button>
+            <button class="nav-link" id="btn_tab2" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">作者簡介</button>
+            <button class="nav-link" id="btn_tab3" data-bs-toggle="tab" data-bs-target="#tab3" type="button" role="tab" aria-controls="tab3" aria-selected="false">其餘館藏</button>
+        </div>
+    </nav>
+
+    @await Html.PartialAsync("_Ptab")
+</section>
+<section id="sec3">sec3</section>
+<section id="sec4">sec4</section>
+<section id="sec5">
+    <p class="" id="rst2">@Context.Session.GetString("type1")</p>
+    <p class="" id="rst3">@Context.Session.GetString("query2")</p>
+    <p class="" id="rst4">@Context.Session.GetString("year1")</p>
+    <p class="" id="rst5">@Context.Session.GetString("year2")</p>
+    <p class="" id="rst6">@Context.Session.GetString("lang")</p>
+    <p class="" id="rst7">@Context.Session.GetString("type2")</p>
 </section>

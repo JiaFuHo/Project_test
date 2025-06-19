@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\wwwroot\\js\\query.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\js\\query.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\wwwroot\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - gf66\\programs\\others\\test2\\views\\home\\query.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\home\\query.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +43,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modal.js",
+              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\js\\modal.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\modal.js",
+              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\js\\modal.js",
+              "RelativeToolTip": "wwwroot\\js\\modal.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-19T07:10:38.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "query.js",
+              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\js\\query.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\query.js",
+              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\wwwroot\\js\\query.js",
+              "RelativeToolTip": "wwwroot\\js\\query.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-19T07:10:33.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Query.cshtml",
+              "DocumentMoniker": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Home\\Query.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Query.cshtml",
+              "ToolTip": "C:\\JiaFuHo - GF66\\Programs\\Others\\test2\\Views\\Home\\Query.cshtml",
+              "RelativeToolTip": "Views\\Home\\Query.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T07:09:30.483Z"
             }
           ]
         }

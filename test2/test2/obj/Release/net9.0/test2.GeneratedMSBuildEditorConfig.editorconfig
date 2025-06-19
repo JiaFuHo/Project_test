@@ -24,8 +24,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/JiaFuHo - GF66/Programs/Others/test2/Views/Home/Query.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/JiaFuHo - GF66/Programs/Others/test2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/JiaFuHo - GF66/Programs/Others/test2/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/JiaFuHo - GF66/Programs/Others/test2/Views/Shared/_Pfooter1.cshtml]
@@ -34,6 +42,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/JiaFuHo - GF66/Programs/Others/test2/Views/Shared/_Pheader1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaGVhZGVyMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/JiaFuHo - GF66/Programs/Others/test2/Views/Shared/_Pheader2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaGVhZGVyMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/JiaFuHo - GF66/Programs/Others/test2/Views/Shared/_Pmodal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QbW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/JiaFuHo - GF66/Programs/Others/test2/Views/Shared/_Ptab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QdGFiLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/JiaFuHo - GF66/Programs/Others/test2/Views/Shared/_Ptree.cshtml]

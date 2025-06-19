@@ -116,7 +116,6 @@ C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.j
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout1.cshtml.rz.scp.css
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\scopedcss\bundle\test2.styles.css
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\scopedcss\projectbundle\test2.bundle.scp.css
-C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\odwy7z9a8b-sejyqax4v4.gz
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\q23ahjfb6y-a1k16s4oiw.gz
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\usrz7p4rt9-ggv643jcz5.gz
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\tsqm96ny4i-gglbyqddh0.gz
@@ -193,10 +192,13 @@ C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\test2.genruntimeconfig.
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\ref\test2.dll
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\75f1m8ok1y-odw2ltm8nn.gz
-C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\pd915p5694-p92al8evzf.gz
-C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\temm3hm6ij-3eg9aw7yi5.gz
-C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\o6riwkc2td-xu88hd6cnz.gz
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\temm3hm6ij-dko9taugee.gz
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\75f1m8ok1y-odw2ltm8nn.gz
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\pd915p5694-nyfufhw3s8.gz
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\o6riwkc2td-xu88hd6cnz.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\temm3hm6ij-dko9taugee.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\pd915p5694-nyfufhw3s8.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\o6riwkc2td-u6r0vp23gl.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\npxrosgd8w-xcf8xnzsal.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\njm252q7ct-tejqk8ykox.gz
+C:\JiaFuHo - GF66\Programs\Others\test2\obj\Debug\net9.0\compressed\brcxepd02f-c9f7id2l4m.gz

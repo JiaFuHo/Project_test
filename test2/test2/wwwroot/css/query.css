@@ -1,0 +1,127 @@
+﻿/*sec1*/
+#box_query1 {
+    min-width: 80%;
+    height: 30%;
+    padding-bottom:15%;
+    margin-bottom: 5%;
+}
+
+.Qbtn_search {
+    width: 30%;
+    margin-left: 10px;
+    background-color: var(--c-green2-100);
+    color: white;
+}
+
+    .Qbtn_search:active {
+        background-color: var(--c-green2-100) !important;
+        color: var(--c-orange-100) !important;
+    }
+
+    .Qbtn_search:hover {
+        background-color: var(--c-green2-100);
+        color: var(--c-orange-100);
+        animation: ani_btn .75s infinite;
+    }
+
+#Qsel_type1 {
+    width: 30%;
+    text-align: center;
+    font-size: 1rem;
+}
+
+#Qbox_search_type {
+    width: 65%;
+    margin-left: 10px;
+}
+
+#Qbox_search_year1 {
+    width: 44%;
+    margin-right: 10px;
+    text-align: center;
+}
+
+#Qbox_search_year2 {
+    width: 44%;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#Qsel_lang, #Qsel_type2 {
+    width: 98%;
+    font-size: 1rem;
+}
+
+    #Qbox_search:focus,
+    #Qsel_type1:focus,
+    #Qbox_search_type:focus,
+    #Qbox_search_year1:focus,
+    #Qbox_search_year2:focus,
+    #Qsel_lang:focus,
+    #Qsel_type2:focus {
+        border-color: var(--bs-border-color);
+        box-shadow: none;
+    }
+
+.Qbtn_hot {
+    min-width: 15%;
+    max-width: 40%;
+    margin-left: 10px;
+    background-color: var(--c-blue---050);
+    color: white;
+}
+
+    .Qbtn_hot:active {
+        background-color: var(--c-blue---050) !important;
+        color: white !important;
+    }
+
+    .Qbtn_hot:hover {
+        background-color: var(--c-blue---050);
+        color: white;
+        animation: ani_btn .75s infinite;
+    }
+
+@keyframes ani_btn {
+    0% {
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+    }
+}
+
+#box_result {
+    width: 100%;
+    height: 60%;
+    bottom: 0;
+    background-color: gray;
+}
+
+/*sec2*/
+#box_tab .nav-link {
+    background-color: transparent;
+    color: var(--c-gray2-100);
+    border: 1px solid transparent;
+    margin-bottom: -2px;
+}
+
+    #box_tab .nav-link.active {
+        background: var(--c-green1-025);
+        color: var(--c-gray1-100);
+        border-top: 1px solid var(--c-gray2-050);
+        border-right: 1px solid var(--c-gray2-050);
+        border-bottom: 1px solid transparent;
+        border-left: 1px solid var(--c-gray2-050);
+    }
+
+.tab-content {
+    min-height: 80%;
+    min-width: 100vw;
+    padding: 20px;
+    background: var(--c-green1-025);
+    background: linear-gradient(180deg, var(--c-green1-025) 0%, var(--c-green1-000) 10%);
+}
