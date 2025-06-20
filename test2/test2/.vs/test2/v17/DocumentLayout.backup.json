@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\views\\shared\\_pcarousel1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:views\\shared\\_pcarousel1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\wwwroot\\css\\query.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\css\\query.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|c:\\jiafuho - desktop\\programs\\others\\test\\test2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3B8C50B-3D48-4F70-9BAB-A0BAD40460B5}|test2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,14 +43,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Pcarousel1.cshtml",
-              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Pcarousel1.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Pcarousel1.cshtml",
-              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\Views\\Shared\\_Pcarousel1.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Pcarousel1.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T15:54:18.518Z",
+              "Title": "query.css",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\query.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\query.css",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\query.css*",
+              "RelativeToolTip": "wwwroot\\css\\query.css*",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-20T16:23:11.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\JiaFuHo - Desktop\\Programs\\Others\\test\\test2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-20T16:22:55.458Z",
               "EditorCaption": ""
             }
           ]

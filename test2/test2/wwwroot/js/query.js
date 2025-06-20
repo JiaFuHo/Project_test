@@ -31,11 +31,15 @@ $("#Qbtn_search3").on("click", () => {
 $("#Qbtn_search2").on("click", () => {
     $("#box_query2").removeClass("d-none")
     $("#box_query1").addClass("d-none")
+
+    if ($("#Qbox_search").val() !== "") { $("#Qbox_search_type").val($("#Qbox_search").val()) }
 })
 
 $("#Qbtn_search4").on("click", () => {
     $("#box_query1").removeClass("d-none")
     $("#box_query2").addClass("d-none")
+
+    if ($("#Qbox_search_type").val() !== "") { $("#Qbox_search").val($("#Qbox_search_type").val()) }
 })
 
 $(".Qbtn_hot").on("click", (e) => {

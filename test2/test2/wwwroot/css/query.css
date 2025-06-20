@@ -129,10 +129,9 @@
 
 .tab-content {
     height: 30vh;
-    width: 100vw;
     padding: 20px;
     background: var(--c-green1-025);
-    background: linear-gradient(180deg, var(--c-green1-025) 0%, var(--c-green1-000) 10%);
+    background: linear-gradient(180deg, var(--c-green1-025) 0%, var(--c-green1-000) 50%);
 }
 
 .table {
