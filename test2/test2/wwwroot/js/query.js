@@ -1,4 +1,5 @@
-﻿$("#Qbtn_search1").on("click", () => {
+﻿//sec1
+$("#Qbtn_search1").on("click", () => {
     if ($("#Qbox_search").val() !== "") { $("#box_search").val($("#Qbox_search").val()) }
 
     $("#box_status").val("1")
@@ -80,3 +81,5 @@ chkSel = () => {
 }
 
 $(() => { chkStatus(); chkSel() })
+
+//sec2

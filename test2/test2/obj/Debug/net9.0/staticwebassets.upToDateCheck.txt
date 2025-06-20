@@ -1,9 +1,10 @@
 wwwroot\css\index.css
 wwwroot\css\modal.css
-wwwroot\css\query.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\bg.png
+wwwroot\images\book1.png
+wwwroot\images\book2.png
 wwwroot\images\facebook.svg
 wwwroot\images\instagram.svg
 wwwroot\images\logo1.png
@@ -14,7 +15,6 @@ wwwroot\images\title2.png
 wwwroot\images\tree.png
 wwwroot\images\youtube.svg
 wwwroot\js\modal.js
-wwwroot\js\query.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -76,7 +76,12 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\css\query.css
+wwwroot\js\query.js
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\css\index.css
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\css\modal.css
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\css\site.css
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\favicon.ico
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\images\facebook.svg
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\images\instagram.svg
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\images\youtube.svg
@@ -132,17 +137,14 @@ C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery-validation-un
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery-validation\dist\additional-methods.js
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.js
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery-validation\LICENSE.md
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\css\query.css
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.min.js
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\favicon.ico
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.min.map
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.slim.min.js
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\css\modal.css
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\js\query.js
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery-validation\LICENSE.md
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.js
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.min.js
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.min.map
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\lib\jquery\LICENSE.txt
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\css\site.css
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\css\query.css
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\wwwroot\js\query.js

@@ -122,10 +122,6 @@ C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.RazorAsse
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout1.cshtml.rz.scp.css
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\scopedcss\bundle\test2.styles.css
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\scopedcss\projectbundle\test2.bundle.scp.css
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\npxrosgd8w-xcf8xnzsal.gz
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\temm3hm6ij-dko9taugee.gz
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\njm252q7ct-vx5hwt2m5j.gz
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\o6riwkc2td-u6r0vp23gl.gz
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\q23ahjfb6y-a1k16s4oiw.gz
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\usrz7p4rt9-ggv643jcz5.gz
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\tsqm96ny4i-gglbyqddh0.gz
@@ -203,4 +199,8 @@ C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\test2.genruntim
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\ref\test2.dll
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\pd915p5694-ailws34gin.gz
-C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\brcxepd02f-7t32ljd24c.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\temm3hm6ij-bvthunzi7t.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\npxrosgd8w-xcf8xnzsal.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\o6riwkc2td-pna7hsfy24.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\njm252q7ct-t6ixa3azdj.gz
+C:\JiaFuHo - Desktop\Programs\Others\test\test2\obj\Debug\net9.0\compressed\brcxepd02f-v7r023yris.gz

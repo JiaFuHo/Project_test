@@ -88,18 +88,6 @@
         animation: ani_btn .75s infinite;
     }
 
-@keyframes ani_btn {
-    0% {
-    }
-
-    50% {
-        transform: scale(1.1);
-    }
-
-    100% {
-    }
-}
-
 /*RWD*/
 @media(max-width: 576px) {
     #btn_hot4 {
